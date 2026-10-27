@@ -81,3 +81,13 @@ section img {
     height: 446px;
 
 }
+
+@media(max-width: 768px){
+    p{
+        width: 648px;
+        font-size: 20px;
+    }
+   header img{
+    margin: 65px 0 0 60px;
+   }
+}
